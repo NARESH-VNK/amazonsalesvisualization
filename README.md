@@ -27,4 +27,4 @@ The project uses three.csv files:
 
 1. Amazon-Powerbireport.pbix: The Power BI file containing the dashboard and visualizations.
 
-2. Amazonsales report.doc: A document with detailed answers to the eight questions along with explanations of the analysis and dashboard usage to arrive at the solutions.
+2. Amazonsales report.pdf: A document with detailed answers to the eight questions along with explanations of the analysis and dashboard usage to arrive at the solutions.
